@@ -1,4 +1,4 @@
-# Dipping my toes into Swift
+# Getting to know Swift
 
 ## Traffic Segue Project
 Very basic project where I explored changing the background scene with events such as button clicks as well a pop fucntions
